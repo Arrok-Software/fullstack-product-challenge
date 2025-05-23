@@ -24,7 +24,7 @@ El objetivo es evaluar habilidades de desarrollo fullstack, incluyendo:
 ## Requisitos
 - Node.js >= 16
 - npm >= 8
-- PHP >= 8.1
+- PHP >= 8.2
 - Composer
 
 ## Instalación general
