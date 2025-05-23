@@ -4,7 +4,7 @@ Este es el backend de la aplicación de gestión de productos, desarrollado con 
 
 ## Requisitos Previos
 
-- PHP 8.1 o superior
+- PHP 8.2 o superior
 - Composer
 - MySQL o SQLite
 
