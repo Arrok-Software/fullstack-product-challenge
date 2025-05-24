@@ -41,9 +41,6 @@ La aplicación estará disponible en `http://localhost:3000`
 frontend-react/
 ├── public/
 ├── src/
-│   ├── pages/
-│   │   └── Home.jsx       # Página principal
-│   ├── components/        # Componentes reutilizables
 │   ├── App.jsx           # Componente raíz
 │   └── index.jsx         # Punto de entrada
 └── package.json
